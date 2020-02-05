@@ -1779,7 +1779,7 @@
   "container.beacon": "Beacon",
   "container.shulkerBox": "§fShulker Box",
   "container.shulkerBox.more": "and %s more...",
-  "container.barrel": "Barrel",
+  "container.barrel": "§fBarrel",
   "container.spectatorCantOpen": "Unable to open. Loot not generated yet.",
   "container.isLocked": "%s is locked!",
   "container.loom": "§fLoom",
