@@ -1,0 +1,13 @@
+{
+"ambientocclusion": false,
+    "elements": [
+        {
+        "from": [ 0.0, 0.05, 0.0 ], 
+        "to": [ 16.0, 0.05, 16.0 ],
+        "faces": {
+            "down": { "texture": "#number", "uv": [ 0, 0, 16, 16 ] },
+            "up": { "texture": "#number", "uv": [ 0, 0, 16, 16 ] }
+            }
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+"parent": "block/redstone_power_3d",
+    "textures": {
+        "number": "block/redstone_power_level_indicator/redstone_power_10"
+    }
+}
