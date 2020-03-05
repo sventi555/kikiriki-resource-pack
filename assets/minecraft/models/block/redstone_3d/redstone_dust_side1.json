@@ -1,6 +1,0 @@
-{
-    "parent": "block/redstone_3d/redstone_dust_side",
-    "textures": {
-        "line": "block/redstone_dust_line1"
-    }
-}
