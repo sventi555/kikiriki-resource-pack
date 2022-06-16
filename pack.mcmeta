@@ -1,6 +1,6 @@
 {
-    "pack": {
-        "pack_format": 6,
-        "description": "Custom Kikiriki resource pack"
-    }
+  "pack": {
+    "pack_format": 9,
+    "description": "Custom Kikiriki resource pack"
+  }
 }
